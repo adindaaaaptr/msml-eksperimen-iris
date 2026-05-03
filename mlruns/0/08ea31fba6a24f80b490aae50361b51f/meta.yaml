@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Documents/Tugas%20Pijak/MSML_ADINDA-PUTRI/mlruns/0/08ea31fba6a24f80b490aae50361b51f/artifacts
+end_time: 1777188975654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08ea31fba6a24f80b490aae50361b51f
+run_name: powerful-hog-408
+run_uuid: 08ea31fba6a24f80b490aae50361b51f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777188937053
+status: 3
+tags: []
+user_id: rangga

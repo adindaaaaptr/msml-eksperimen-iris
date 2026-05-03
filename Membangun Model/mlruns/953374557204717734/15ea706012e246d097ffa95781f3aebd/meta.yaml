@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/Asus/Documents/Tugas Pijak/MSML_ADINDA-PUTRI/Membangun
+  Model/mlruns/953374557204717734/15ea706012e246d097ffa95781f3aebd/artifacts
+end_time: 1777196982593
+entry_point_name: ''
+experiment_id: '953374557204717734'
+lifecycle_stage: active
+run_id: 15ea706012e246d097ffa95781f3aebd
+run_name: delightful-ant-960
+run_uuid: 15ea706012e246d097ffa95781f3aebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777196914783
+status: 3
+tags: []
+user_id: rangga

@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/Asus/Documents/Tugas Pijak/MSML_ADINDA-PUTRI/Membangun
+  Model/mlruns/617560950228065142/a0d3bb3dcd3343f188b9e454ff69f71c/artifacts
+end_time: 1777191958657
+entry_point_name: ''
+experiment_id: '617560950228065142'
+lifecycle_stage: active
+run_id: a0d3bb3dcd3343f188b9e454ff69f71c
+run_name: gentle-bug-66
+run_uuid: a0d3bb3dcd3343f188b9e454ff69f71c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777191920446
+status: 3
+tags: []
+user_id: rangga

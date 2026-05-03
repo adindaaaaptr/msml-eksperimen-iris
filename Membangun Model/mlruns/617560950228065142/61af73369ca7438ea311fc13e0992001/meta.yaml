@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/Asus/Documents/Tugas Pijak/MSML_ADINDA-PUTRI/Membangun
+  Model/mlruns/617560950228065142/61af73369ca7438ea311fc13e0992001/artifacts
+end_time: 1777192342626
+entry_point_name: ''
+experiment_id: '617560950228065142'
+lifecycle_stage: active
+run_id: 61af73369ca7438ea311fc13e0992001
+run_name: handsome-slug-709
+run_uuid: 61af73369ca7438ea311fc13e0992001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777192260948
+status: 3
+tags: []
+user_id: rangga

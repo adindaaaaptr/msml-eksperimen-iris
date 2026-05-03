@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/Asus/Documents/Tugas Pijak/MSML_ADINDA-PUTRI/mlruns/101857669502489121/a0d3701e42cd4261af087e3472487fe8/artifacts
+end_time: 1777189726552
+entry_point_name: ''
+experiment_id: '101857669502489121'
+lifecycle_stage: active
+run_id: a0d3701e42cd4261af087e3472487fe8
+run_name: resilient-stork-451
+run_uuid: a0d3701e42cd4261af087e3472487fe8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777189675013
+status: 3
+tags: []
+user_id: rangga

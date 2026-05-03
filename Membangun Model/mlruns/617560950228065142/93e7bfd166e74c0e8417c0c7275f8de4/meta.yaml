@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/Asus/Documents/Tugas Pijak/MSML_ADINDA-PUTRI/Membangun
+  Model/mlruns/617560950228065142/93e7bfd166e74c0e8417c0c7275f8de4/artifacts
+end_time: 1777191721839
+entry_point_name: ''
+experiment_id: '617560950228065142'
+lifecycle_stage: active
+run_id: 93e7bfd166e74c0e8417c0c7275f8de4
+run_name: funny-vole-901
+run_uuid: 93e7bfd166e74c0e8417c0c7275f8de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777191651377
+status: 3
+tags: []
+user_id: rangga

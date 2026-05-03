@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+
+jobs:
+  run-python:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Ambil kode
+        uses: actions/checkout@v3
+
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: Install library
+        run: pip install -r Membangun_model/requirements.txt
+
+      - name: Jalankan model
+        run: python Membangun_model/modelling.py

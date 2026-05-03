@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/Asus/Documents/Tugas Pijak/MSML_ADINDA-PUTRI/Membangun
+  Model/mlruns/617560950228065142/680b5d1f577f498fbaf701bd2d510788/artifacts
+end_time: 1777192585856
+entry_point_name: ''
+experiment_id: '617560950228065142'
+lifecycle_stage: active
+run_id: 680b5d1f577f498fbaf701bd2d510788
+run_name: rogue-robin-387
+run_uuid: 680b5d1f577f498fbaf701bd2d510788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777192532786
+status: 3
+tags: []
+user_id: rangga

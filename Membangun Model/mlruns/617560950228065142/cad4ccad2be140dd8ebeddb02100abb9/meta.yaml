@@ -1,0 +1,16 @@
+artifact_uri: file:C:/Users/Asus/Documents/Tugas Pijak/MSML_ADINDA-PUTRI/Membangun
+  Model/mlruns/617560950228065142/cad4ccad2be140dd8ebeddb02100abb9/artifacts
+end_time: 1777191779993
+entry_point_name: ''
+experiment_id: '617560950228065142'
+lifecycle_stage: active
+run_id: cad4ccad2be140dd8ebeddb02100abb9
+run_name: suave-deer-582
+run_uuid: cad4ccad2be140dd8ebeddb02100abb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777191748738
+status: 3
+tags: []
+user_id: rangga
