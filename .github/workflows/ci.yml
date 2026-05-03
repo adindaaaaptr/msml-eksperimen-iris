@@ -2,22 +2,22 @@ name: CI
 
 on:
   push:
+    branches: [ "main" ]
 
 jobs:
-  run-python:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Ambil kode
-        uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
-      - name: Install Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.11
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
 
-      - name: Install library
-        run: pip install -r Membangun_model/requirements.txt
+    - name: Install dependencies
+      run: pip install pandas scikit-learn mlflow
 
-      - name: Jalankan model
-        run: python Membangun_model/modelling.py
+    - name: Run model
+      run: python "Membangun Model/modelling.py"
